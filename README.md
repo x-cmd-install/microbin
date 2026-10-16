@@ -38,7 +38,7 @@ Total: **9,651** lines of code across **47** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,605 · **Forks**: 322 · **Open issues**: 225 · **Contributors**: 45
+- **Stars**: 4,606 · **Forks**: 322 · **Open issues**: 225 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **9,651** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-08-16 | 0 | 0 | 3 | 0 | 5 | 1 |
-| 90d | 2026-07-17 | 0 | 0 | 5 | 0 | 7 | 1 |
-| last180d | 2026-04-18 | 0 | 2 | 10 | 1 | 19 | 4 |
-| 360d | 2025-10-20 | 3 | 19 | 12 | 11 | 27 | 51 |
-| last720d | 2024-10-25 | 3 | 20 | 13 | 17 | 30 | 87 |
+| 30d | 2026-09-16 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-08-17 | 0 | 0 | 3 | 0 | 5 | 1 |
+| 90d | 2026-07-18 | 0 | 0 | 5 | 0 | 7 | 1 |
+| last180d | 2026-04-19 | 0 | 2 | 10 | 1 | 19 | 4 |
+| 360d | 2025-10-21 | 3 | 19 | 12 | 11 | 27 | 51 |
+| last720d | 2024-10-26 | 3 | 20 | 13 | 17 | 30 | 87 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for microbin lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T12:23:25Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:30:54Z._
