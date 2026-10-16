@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4256988,
       "digest": "sha256:8d8d2151ca757e2e214e01e7cb2d45a26111906dad439c5570207e25a9f6e2cf",
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2026-01-10T19:17:30Z",
       "updated_at": "2026-01-10T19:17:30Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3933496,
       "digest": "sha256:25eb0eaf2c85ab78dfe344848a3f17f8b76b56e0f0c684880c9d14d3302d8293",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-01-10T19:18:28Z",
       "updated_at": "2026-01-10T19:18:28Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6556086,
       "digest": "sha256:d85f2259404587b1b7b6e585d9fc63e53b0253294cd0a96593ecb0355228f88a",
-      "download_count": 94,
+      "download_count": 95,
       "created_at": "2026-01-10T19:16:20Z",
       "updated_at": "2026-01-10T19:16:21Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-aarch64-unknown-linux-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4089487,
       "digest": "sha256:202cc11c072768efcf5c61cc06188cd93d88f5a18645cc90614a2281c277de54",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-01-10T19:24:14Z",
       "updated_at": "2026-01-10T19:24:14Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-i686-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4508591,
       "digest": "sha256:e61878d9272b484940ebcbfaea132247bc46dcfd735a51f2456d3c27c3c670a4",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-01-10T19:16:02Z",
       "updated_at": "2026-01-10T19:16:03Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-x86_64-apple-darwin.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4497074,
       "digest": "sha256:c479086ff3c6386ffc0d51c8bafa1c9a89c6ad9b353b1b269008f00994298743",
-      "download_count": 180,
+      "download_count": 181,
       "created_at": "2026-01-10T19:24:37Z",
       "updated_at": "2026-01-10T19:24:37Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-x86_64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6579595,
       "digest": "sha256:3d6285b4520340c0611875916a7b1dbfa880973541f044c3d18efce799725f45",
-      "download_count": 466,
+      "download_count": 468,
       "created_at": "2026-01-10T19:16:11Z",
       "updated_at": "2026-01-10T19:16:11Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-x86_64-unknown-linux-musl.tar.gz"
