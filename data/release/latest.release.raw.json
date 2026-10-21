@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6579595,
       "digest": "sha256:3d6285b4520340c0611875916a7b1dbfa880973541f044c3d18efce799725f45",
-      "download_count": 483,
+      "download_count": 487,
       "created_at": "2026-01-10T19:16:11Z",
       "updated_at": "2026-01-10T19:16:11Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-x86_64-unknown-linux-musl.tar.gz"
