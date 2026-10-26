@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6556086,
       "digest": "sha256:d85f2259404587b1b7b6e585d9fc63e53b0253294cd0a96593ecb0355228f88a",
-      "download_count": 99,
+      "download_count": 100,
       "created_at": "2026-01-10T19:16:20Z",
       "updated_at": "2026-01-10T19:16:21Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-aarch64-unknown-linux-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5680730,
       "digest": "sha256:c27a3ce3d1b417d095660aa6c7d4daae1340412374a1824573636fc2d8f90469",
-      "download_count": 41,
+      "download_count": 42,
       "created_at": "2026-01-10T19:16:07Z",
       "updated_at": "2026-01-10T19:16:08Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-armv7-unknown-linux-musleabihf.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4497074,
       "digest": "sha256:c479086ff3c6386ffc0d51c8bafa1c9a89c6ad9b353b1b269008f00994298743",
-      "download_count": 186,
+      "download_count": 188,
       "created_at": "2026-01-10T19:24:37Z",
       "updated_at": "2026-01-10T19:24:37Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-x86_64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6579595,
       "digest": "sha256:3d6285b4520340c0611875916a7b1dbfa880973541f044c3d18efce799725f45",
-      "download_count": 510,
+      "download_count": 515,
       "created_at": "2026-01-10T19:16:11Z",
       "updated_at": "2026-01-10T19:16:11Z",
       "browser_download_url": "https://github.com/szabodanika/microbin/releases/download/v2.1.0/microbin-v2.1.0-x86_64-unknown-linux-musl.tar.gz"
