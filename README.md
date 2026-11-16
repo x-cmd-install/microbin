@@ -48,12 +48,12 @@ Total: **9,651** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 4 | 0 | 2 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 5 | 0 | 3 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 6 | 0 | 6 | 1 |
-| last180d | 2026-05-19 | 0 | 0 | 12 | 0 | 13 | 1 |
-| 360d | 2025-11-20 | 3 | 19 | 15 | 10 | 25 | 51 |
-| last720d | 2024-11-25 | 3 | 19 | 16 | 16 | 28 | 84 |
+| 30d | 2026-10-17 | 0 | 0 | 4 | 0 | 2 | 0 |
+| last60d | 2026-09-17 | 0 | 0 | 5 | 0 | 3 | 0 |
+| 90d | 2026-08-18 | 0 | 0 | 6 | 0 | 6 | 1 |
+| last180d | 2026-05-20 | 0 | 0 | 12 | 0 | 13 | 1 |
+| 360d | 2025-11-21 | 3 | 19 | 15 | 10 | 25 | 51 |
+| last720d | 2024-11-26 | 3 | 19 | 16 | 16 | 28 | 84 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for microbin lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:47:02Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:14:49Z._
